@@ -4,7 +4,7 @@ Welcome to my C++ Sorting Algorithms repository!
 
 This repository contains different sorting algorithms implemented in C++ for learning and practice.
 
-Algorithms Included
+##Algorithms Included
 
 1. Bubble Sort
 2. Selection Sort
@@ -17,7 +17,7 @@ Algorithms Included
 9. Radix Sort
 10. Bucket Sort
 
-Topics Covered
+##Topics Covered
 
 * C++ Source Code
 * Algorithm Working
@@ -25,14 +25,14 @@ Topics Covered
 * Space Complexity
 * Best, Average, and Worst Cases
 
-Purpose
+##Purpose
 
 To understand and practice different sorting algorithms and improve my problem-solving skills.
 
-Language
+##Language
 
 C++
 
-Author
+#Author
 
 Muhammad Abdullah Amin
